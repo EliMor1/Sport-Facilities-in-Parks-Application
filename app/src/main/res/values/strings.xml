@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">T23-PM2020</string>
+    <string name="signupPage">Sign Up</string>
+    <string name="emailfield">Email</string>
+    <string name="passwordfield">Password</string>
+
+    <string name="loginPage">Log In</string>
+    <string name="loginBtn">Log In</string>
+    <string name="title_activity_guest_home">GuestHome</string>
+    <string name="tab_text_1">SEARCH</string>
+    <string name="tab_text_2">ALL</string>
+    <string name="tab_text_3">FAVORITES</string>
+    <string name="tab_text_4">ALERTS</string>
+    <string name="tab_text_5">OPTIONS</string>
+    <string name="title_activity_logged_home">loggedHome</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="title_activity_mpd_home">mpd_home</string>
+</resources>

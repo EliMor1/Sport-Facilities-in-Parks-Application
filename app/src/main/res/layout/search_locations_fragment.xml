@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/parent_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".searchLocations">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/search_results"
+        android:layout_width="match_parent"
+        android:layout_height="662dp"
+        android:layout_gravity="bottom"
+        android:clipToPadding="true"
+        android:paddingTop="170dp"
+        android:paddingBottom="0dp" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#CFF0FF"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme" />
+
+    <Button
+        android:id="@+id/search_button"
+        android:layout_width="129dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:background="#80DEEA"
+        android:drawableLeft="@android:drawable/ic_menu_search"
+        android:text="@android:string/search_go" />
+
+    <EditText
+        android:id="@+id/search_locations"
+        android:layout_width="277dp"
+        android:layout_height="55dp"
+        android:ems="10"
+        android:hint="Find"
+        android:inputType="textPersonName"
+        android:paddingLeft="20dp" />
+
+</FrameLayout>

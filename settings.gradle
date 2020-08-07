@@ -1,0 +1,2 @@
+rootProject.name='T23-PM2020'
+include ':app'

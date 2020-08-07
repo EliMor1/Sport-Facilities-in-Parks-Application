@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "406771630490",
+    "firebase_url": "https://pm-t23.firebaseio.com",
+    "project_id": "pm-t23",
+    "storage_bucket": "pm-t23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406771630490:android:aaadd6ce10d67a0e727a23",
+        "android_client_info": {
+          "package_name": "com.example.t23_pm2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406771630490-82oqjv95rn8dir3s9k2863dt2i1191ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD0hHsP7fTFye11KuSfSJBfAldCP352xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406771630490-82oqjv95rn8dir3s9k2863dt2i1191ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
